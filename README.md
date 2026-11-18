@@ -8,7 +8,7 @@
 
 | Section | Subject |
 | :--- | :--- |
-| Sec-A | WebDev |
+| Sec-B | WebDev |
 
 ---
 
