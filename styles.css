@@ -1,0 +1,91 @@
+/* Basic styles for the portfolio */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    margin: 20px;
+    padding: 0;
+    color: #333333;
+}
+
+/* Centered main container */
+.container {
+    max-width: 700px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 25px;
+    border: 2px solid #b0c4de;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #1a5276;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #555555;
+    margin-top: 0;
+}
+
+/* Headings */
+h2 {
+    color: #2e86c1;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+/* Paragraphs and Lists */
+p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+ul, ol {
+    margin-left: 20px;
+    line-height: 1.8;
+}
+
+li {
+    font-size: 15px;
+}
+
+/* Horizontal line separator */
+hr {
+    border: 0;
+    border-top: 1px solid #d5dbdb;
+    margin: 20px 0;
+}
+
+/* Buttons */
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+/* Message paragraph updated by JavaScript */
+#message {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #0b5394;
+    font-size: 16px;
+}
+
+
