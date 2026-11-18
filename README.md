@@ -16,9 +16,11 @@
 This project is a simple personal portfolio website created as part of the Web Development practical test. It demonstrates the basic fundamentals of web page creation using plain HTML, CSS, and JavaScript.
 
 ## 🚀 Key Features
+- **Navigation Bar:** Quick links to jump directly to About, Skills, Projects, and Contact sections.
 - **About Me Section:** A short introduction, background, and personal hobbies.
 - **Skills Section:** A list of basic programming languages and tools learned so far.
 - **Projects Section:** A list of beginner projects (Calculator, Portfolio, etc.).
+- **Footer Section:** Copyright notice and website attribution.
 - **Interactive Elements (JavaScript):**
   - **Greeting Button:** Shows an alert box and updates text on the screen.
   - **Color Changer:** Toggles the background color of the webpage.
