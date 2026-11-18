@@ -8,7 +8,7 @@
 
 | Section | Subject |
 | :--- | :--- |
-| Sec-B | WebDev |
+| Sec-B | Git and GitHub |
 
 ---
 
